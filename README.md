@@ -7,5 +7,6 @@ conda activate Data_Engineering
 
 
 <h3>Packages:</h3><br>
+pip install python-dotenv
 pip install tweepy<br>
 pip install s3fs<br>
